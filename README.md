@@ -1,0 +1,2 @@
+# naiko: the game
+naiko
