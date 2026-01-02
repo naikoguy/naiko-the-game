@@ -1,2 +1,4 @@
 # naiko: the game
-naiko
+this is the game i'm making in gms2
+
+yeah
