@@ -55,6 +55,7 @@
     {"id":{"name":"obj_menu_quit","path":"objects/obj_menu_quit/obj_menu_quit.yy",},},
     {"id":{"name":"obj_menu_start","path":"objects/obj_menu_start/obj_menu_start.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
     {"id":{"name":"obj_trigger","path":"objects/obj_trigger/obj_trigger.yy",},},
     {"id":{"name":"obj_velocity","path":"objects/obj_velocity/obj_velocity.yy",},},

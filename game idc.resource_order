@@ -27,6 +27,7 @@
     {"name":"obj_menu_quit_start","order":2,"path":"objects/obj_menu_quit_start/obj_menu_quit_start.yy",},
     {"name":"obj_menu_quit","order":1,"path":"objects/obj_menu_quit/obj_menu_quit.yy",},
     {"name":"obj_menu_start","order":3,"path":"objects/obj_menu_start/obj_menu_start.yy",},
+    {"name":"obj_restart","order":3,"path":"objects/obj_restart/obj_restart.yy",},
     {"name":"obj_trigger","order":2,"path":"objects/obj_trigger/obj_trigger.yy",},
     {"name":"obj_velocity","order":1,"path":"objects/obj_velocity/obj_velocity.yy",},
     {"name":"rm_hub","order":3,"path":"rooms/rm_hub/rm_hub.yy",},
